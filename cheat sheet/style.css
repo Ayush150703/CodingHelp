@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:black;
+    color: white;
+    height: 60px;
+}
+.container{
+    /* background-color: red; */
+    width:60vw;
+    margin:auto;
+    padding:32px 0 ;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+
+}
+.content{
+    font-family: 'Potta One', cursive;
+    
+
+}
+
+.logo{
+    padding:0 23px;
+
+   
+  
+}
+
+
+.logo img{
+    height: 50px;
+    width:50px;
+}
+.toolbar-item button{
+    cursor: pointer !important;
+    color: red !important;
+    border: 5px solid green !important;
+    border-radius: 60px !important;
+    padding:5px 10px !important;
+}
+h1{
+    margin: 4px;
+    padding: 5px;
+
+}
